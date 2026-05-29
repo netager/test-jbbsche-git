@@ -1,4 +1,1 @@
-idfdf
-dfd
-dfdf
-dfdf
+print("HELLO")
