@@ -1,7 +1,1 @@
-dfdfdaaaaa
-ddfd
-bbbb
-cccc
-dddd
-add test11
-add test12
+print("Hello")
